@@ -28,7 +28,7 @@ Weekly Homework
 ----------------
 
 **Submit homework by pushing to your bewd_sf_12_homework repo, then submit a pull request**
-Homework is given each Thursday, and is always due the next Thursday. Feedback on each assignment will be complete by the following Tuesday.
+Homework is given each Thursday, and is always due the next Thursday. Feedback on each assignment will be completed by the following Thursday.
 
 | HW # | Assignment | Class Topic | Due Date | Feedback <br> _(if hw submitted by due date)_ |
 | :--------: | ---------- | ----------- | -------- | -------- |
