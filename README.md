@@ -1,5 +1,4 @@
 # BEWD_SF_12_Homework Repository
-------------------------------------
 This is the repository where you'll put your homework.
 
 How To Use This Repo
