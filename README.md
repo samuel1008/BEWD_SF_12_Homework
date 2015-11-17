@@ -27,7 +27,7 @@ If any files are in the pull request outside of your personal folder, we will se
 Weekly Homework
 ----------------
 
-**Submit homework by pushing to your bewd_sf_10_homework repo, then submit a pull request**
+**Submit homework by pushing to your bewd_sf_12_homework repo, then submit a pull request**
 Homework is given each Thursday, and is always due the next Thursday. Feedback on each assignment will be complete by the following Tuesday.
 
 | HW # | Assignment | Class Topic | Due Date | Feedback <br> _(if hw submitted by due date)_ |
