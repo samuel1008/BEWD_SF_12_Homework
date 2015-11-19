@@ -1,6 +1,6 @@
 # BEWD_SF_12_Homework Repository
 This is the repository where you'll put your homework.
-
+Click here to access to [BEWD_SF_12](https://github.com/kradul/bewd_sf_12)
 How To Use This Repo
 -----------------------
 
@@ -53,4 +53,16 @@ Homework is given each Thursday, and is always due the next Thursday. Feedback o
 | 19         | - | | |  | 
 | ...        | - | | |  | 
 
+####Office Hours
 
+
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| ------ | ------ | ------- | --------- | -------- | ------ | -------- |
+| Sandi <br> 12-2pm | -|Christine: <br> 5:30-6:30pm| - |Christine: <br> 5:30-6:30pm|  | - |
+
+###Bonus Resources
+-------
+Note: these are optional resources and **not** homework, but are helpful and relevant if you wish to learn more. Peruse them at your leisure.
+
+| Week #|| Resource | Class Topic |
+| 1 || -------- | ----------- |
