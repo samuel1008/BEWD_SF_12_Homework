@@ -64,5 +64,5 @@ Homework is given each Thursday, and is always due the next Thursday. Feedback o
 -------
 Note: these are optional resources and **not** homework, but are helpful and relevant if you wish to learn more. Peruse them at your leisure.
 
-| Week #|| Resource | Class Topic |
-| 1 || -------- | ----------- |
+| Week #| Resource | Class Topic |
+| 1 | -------- | ----------- |
