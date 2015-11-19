@@ -33,7 +33,7 @@ Homework is given each Thursday, and is always due the next Thursday. Feedback o
 
 | HW # | Assignment | Class Topic | Due Date | Feedback <br> _(if hw submitted by due date)_ |
 | :--------: | ---------- | ----------- | -------- | -------- |
-| 1          | Push `hw_1`directory to Github, with a README.md | [01_Dev_Workflow](https://github.com/kradul/bewd_sf_12/tree/master/01_Dev_Workflow) | November 19th | None  |
+| 1          | Push `hw_1`directory to Github, with a README.md under your name-username folder | [01_Dev_Workflow](https://github.com/kradul/bewd_sf_12/tree/master/01_Dev_Workflow) | November 19th | None  |
 | 2          | - | | |  |
 | 3          | - | | |  |
 | 4          | - | | |  | 
