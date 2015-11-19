@@ -28,11 +28,11 @@ Weekly Homework
 ----------------
 
 **Submit homework by pushing to your bewd_sf_12_homework repo, then submit a pull request**
-Homework is given each Thursday, and is always due the next Thursday. Feedback on each assignment will be completed by the following Thursday.
+Homework is given each Thursday, and is always due the next Thursday. Feedback on each assignment will be completed by the following Thursday
 
 | HW # | Assignment | Class Topic | Due Date | Feedback <br> _(if hw submitted by due date)_ |
 | :--------: | ---------- | ----------- | -------- | -------- |
-| 1          | - | | |  |
+| 1          | Push `hw_1` to Github. <br/> with a README.md | [01_Dev_Workflow](https://github.com/kradul/bewd_sf_12/tree/master/01_Dev_Workflow) | November 24th | None  |
 | 2          | - | | |  |
 | 3          | - | | |  |
 | 4          | - | | |  | 
