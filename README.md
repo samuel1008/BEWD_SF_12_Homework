@@ -68,4 +68,4 @@ Note: these are optional resources and **not** homework, but are helpful and rel
 | Week #| Resource | Class Topic |
 |------ | -------- | ----------- |
 | 1 | [Code School Try Git](https://www.codeschool.com/courses/try-git) <br/>[Git Kitchen with Chef Ramsey](http://bloggytoons.com/posts/2013/10/10/git-kitchen-wchef-ramsay) | Git |
-| 1 | Coding game challenge: [Ruby Warrior](https://github.com/ryanb/ruby-warrior) | Ruby|
+| 1 | - | Ruby|
