@@ -59,7 +59,7 @@ Homework is given each Thursday, and is always due the next Thursday. Feedback o
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | ------ | ------ | ------- | --------- | -------- | ------ | -------- |
-| Sandi <br>  | - |Christine: <br> 5:30-6:30pm| - |Christine: <br> 5:30-6:30pm| - | Sandi|
+| Sandi <br> 2:00pm-4:00pm  | - |Christine: <br> 5:30-6:30pm| - |Christine: <br> 5:30-6:30pm| - | -|
 
 ###Bonus Resources
 -------
