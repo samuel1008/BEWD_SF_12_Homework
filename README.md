@@ -69,4 +69,5 @@ Note: these are optional resources and **not** homework, but are helpful and rel
 |------ | -------- | ----------- |
 | 1 | [Code School Try Git](https://www.codeschool.com/courses/try-git) <br/>[Git Kitchen with Chef Ramsey](http://bloggytoons.com/posts/2013/10/10/git-kitchen-wchef-ramsay) | Git |
 | 1 | [zshell](https://github.com/robbyrussell/oh-my-zsh) | Terminal |
-| 1 | - | Ruby|
+| 1 | [Pragmatic Programing PDF](http://chrismaloney.org/notes_s/Ruby%20on%20Rails_/ProgrammingRuby-4thEd.pdf) | Ruby|
+|1|-|-|
