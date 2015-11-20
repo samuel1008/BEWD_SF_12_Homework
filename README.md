@@ -34,7 +34,7 @@ Homework is given each Thursday, and is always due the next Thursday. Feedback o
 | HW # | Assignment | Class Topic | Due Date | Feedback <br> _(if hw submitted by due date)_ |
 | :--------: | ---------- | ----------- | -------- | -------- |
 | 1          | Push `hw_1`directory to Github, with a README.md under your `name-username` folder | [01_Dev_Workflow](https://github.com/kradul/bewd_sf_12/tree/master/01_Dev_Workflow) | November 19th | None  |
-| 2          | - | | |  |
+| 2          | Secret Number Homework.  <br> Be sure to push a `hw_2` directory with `secret_number1.rb` |[02_Variables_Methods](https://github.com/kradul/bewd_sf_12/blob/master/02_Variables_Methods/hw_secret_number1.rb) | November 24th | December 3rd  |
 | 3          | - | | |  |
 | 4          | - | | |  | 
 | 5          | - | | |  | 
