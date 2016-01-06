@@ -1,0 +1,8 @@
+<h1>Welcome to RetFlix! See our collection of movies below</h1>
+
+
+ <% @all_movies.each do |t| %>
+ <h2><%= t.title %> </h2>
+ <p><%= t.description %></p>
+ <p><%= t.year_released %></p>
+ <% end %>

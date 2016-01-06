@@ -40,34 +40,40 @@ def create_story_hash(title, category, upvotes)
 story = {:title => title, :category => category, :upvotes => upvotes}
 end
 
-def add_to_teddit(stories)
+def add_to_teddit(stories) # we're calling the array
+  #this is the same as having: stories = []
   puts "Welcome to Teddit! a text based news aggregator. Get today's news tomorrow!"
   puts "Please enter a News story:"
-  title = get_input
+  title = get_input #getting user input for title
   puts "Please give it a category:"
-  category = get_input
-  upvotes = calculate_upvotes(title, category)
-  puts "New story added! #{title.capitalize}, Category: #{category.capitalize}, Current Upvotes: #{upvotes}"
-  stories.push(create_story_hash(title, category, upvotes))
-  stories
+  category = get_input #getting user input for category
+  upvotes = calculate_upvotes(title, category) #calculating upvotes
+  puts "New story added! #{title.capitalize}, Category: #{category.capitalize}, Current Upvotes: #{upvotes}" #puts it on display
+  binding.pry
+  stories.push(create_story_hash(title, category, upvotes)) #pushes create_story_hash method
+  binding.pry
+  stories # run the array of stories
 end
 
 def ask_again(stories)
   puts "Would you like to add another story?"
-  answer = get_input
+  answer = get_input # getting user input for adding another story
   if answer == "yes"
-   new_stories = add_to_teddit(stories)
-   ask_again(new_stories)
-  else
-    puts "thank you"
-     stories.each do |story|
+    binding.pry
+   new_stories = add_to_teddit(stories) # array within an array, rerun stories array
+   ask_again(new_stories) #ask_again method, loops new_stories which loops stories
+  else #anything other than "yes"
+    puts "thank you" #display "thank you"
+     stories.each do |story| #stories will iterate the story hashes
       puts "New story added! #{story[:title].capitalize}, Category: #{story[:category].capitalize}, Current Upvotes: #{story[:upvotes]}"
-     end
+     end #displays title, category, and upvotes
   end
 end
 
-stories = []
+stories = [] #stories into an empty array
+binding.pry
 new_stories_array = add_to_teddit(stories)
+binding.pry
 ask_again(new_stories_array)
 
 
