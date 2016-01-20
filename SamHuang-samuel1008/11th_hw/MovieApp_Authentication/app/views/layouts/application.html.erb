@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MoviesApp</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<% if !current_page?(root_path) %>
+	<%= link_to "Back to homepage", "/" %>
+<% end %>
+
+<% if user_signed_in? %>
+  		<p> Hello, you are: <%= current_user.email %></p>
+  		<%= link_to "Profile", edit_user_registration_path %>
+  		<%= link_to "Log Out", destroy_user_session_path %>
+      <%= link_to "Movies_watched", movies_watched_path %>
+
+  	<% else %>
+  		<%= link_to "Log In", user_session_path %>
+  		<%= link_to "Sign Up", new_user_registration_path %>
+​
+  	<% end %>
+  	
+  	<% flash.each do |key, value| %>
+        <div class="alert alert-<%= key %>">
+          <%= value %>
+        </div>
+    <% end %>
+
+<%= yield %>
+
+</body>
+</html>
